@@ -1,4 +1,3 @@
-# Tribute-Page
 <div class="container">
   <div class="jumbotron">
     <h1 class="text-center" style="color:indigo "><strong>Shawn Ray </strong></h1>
